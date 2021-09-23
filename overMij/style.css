@@ -1,0 +1,23 @@
+h1 {
+    color:pink;
+    text-align:center;
+    padding-top: 1cm;
+    padding-bottom: 23.5cm;
+    font-size: 4cm;
+    margin-top: 0cm;
+}
+
+.image{
+    background-image: url("http://3.bp.blogspot.com/-cWnFOYmS7u4/UccuHCIDKyI/AAAAAAAACLI/krB8FC4G06I/s1600/IMG_0092.2.jpg")
+}
+
+a{
+    font-family: 'Architects Daughter', serif;  
+    font-size: 24px;
+    color: #198aaf;
+    background-color: wheat;
+    text-decoration: none;
+    border-radius: 15%;
+    margin: 10px;
+    padding: 5px;
+}
